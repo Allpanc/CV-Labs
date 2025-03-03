@@ -1,0 +1,31 @@
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\Lab 6.exe
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\Lab 6.deps.json
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\Lab 6.runtimeconfig.json
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\Lab 6.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\Lab 6.pdb
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\Magick.NET-Q8-AnyCPU.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\Magick.NET.Core.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\OpenCvSharp.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\linux-arm64\native\Magick.Native-Q8-arm64.dll.so
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\linux-musl-x64\native\Magick.Native-Q8-x64.dll.so
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\linux-x64\native\Magick.Native-Q8-x64.dll.so
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\osx-arm64\native\Magick.Native-Q8-arm64.dll.dylib
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\osx-x64\native\Magick.Native-Q8-x64.dll.dylib
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\win-arm64\native\Magick.Native-Q8-arm64.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\win-x64\native\Magick.Native-Q8-x64.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\win-x86\native\Magick.Native-Q8-x86.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\src\CV Labs\Lab 6\bin\Debug\net7.0\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.csproj.AssemblyReference.cache
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.AssemblyInfoInputs.cache
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.AssemblyInfo.cs
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.csproj.CoreCompileInputs.cache
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.csproj.CopyComplete
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.dll
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\refint\Lab 6.dll
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.pdb
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\Lab 6.genruntimeconfig.cache
+D:\src\CV Labs\Lab 6\obj\Debug\net7.0\ref\Lab 6.dll
