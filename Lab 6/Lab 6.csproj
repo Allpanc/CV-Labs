@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <RootNamespace>Lab_3</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Magick.NET-Q8-AnyCPU" Version="14.5.0"/>
+        <PackageReference Include="OpenCvSharp4" Version="4.10.0.20241108"/>
+        <PackageReference Include="OpenCvSharp4.Windows" Version="4.10.0.20241108"/>
+    </ItemGroup>
+
+</Project>
