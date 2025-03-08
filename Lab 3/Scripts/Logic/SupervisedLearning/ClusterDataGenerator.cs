@@ -7,7 +7,7 @@ internal class ClusterDataGenerator
     private const int FeatureDimension = 2;
     private const int TotalSamples = 2000;
     private const int TrainingSamples = 1000;
-    private const int Seed = 2323;
+    private const int Seed = 1234;
     private readonly Random _random = new(Seed);
 
     public ClusterData GenerateClusterData()

@@ -20,7 +20,7 @@ internal class KMeansRunner : IRunner
         Mat dataMat = ConvertToMat(_data);
         var (labels, centers) = PerformKMeansClustering(dataMat, NumberOfClusters);
         
-        _plotHelper.VisualizeClusters(_data, labels, centers, "KMeans");
+        _plotHelper.VisualizeClusters(_data, labels, centers, "K-Means Clustering");
     }
 
     private Mat ConvertToMat(float[,] data)

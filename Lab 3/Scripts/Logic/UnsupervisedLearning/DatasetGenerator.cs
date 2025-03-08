@@ -5,7 +5,7 @@ namespace Lab3;
 
 internal class DatasetGenerator
 {
-    private const int Seed = 42;
+    private const int Seed = 66;
     private readonly Random _random = new(Seed);
 
     public void GenerateRandomDataset(string filename, int numberOfPoints)

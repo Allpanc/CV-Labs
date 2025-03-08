@@ -146,7 +146,7 @@ internal abstract class EntryPoint
 
     private static void PrepareDataset(string fileName)
     {
-        var numberOfPoints = 150;
+        var numberOfPoints = 123;
         var datasetGenerator = new DatasetGenerator();
         datasetGenerator.GenerateRandomDataset(fileName, numberOfPoints);
     }

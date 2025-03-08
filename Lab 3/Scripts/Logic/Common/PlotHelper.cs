@@ -73,15 +73,15 @@ internal class PlotHelper
     private void AddClusterScatterPlot(Plot plt, double[] xValues, double[] yValues, int clusterIndex)
     {
         var scatter = plt.Add.Scatter(xValues, yValues);
-        scatter.LegendText = $"Кластер {clusterIndex}";
+        scatter.LegendText = $"Cluster {clusterIndex}";
         scatter.LineWidth = 0;
 
         scatter.Color = clusterIndex switch
         {
-            0 => Colors.Blue,
-            1 => Colors.Green,
-            2 => Colors.Orange,
-            _ => Colors.Purple
+            0 => Colors.RebeccaPurple,
+            1 => Colors.Olive,
+            2 => Colors.FireBrick,
+            _ => Colors.GoldenRod
         };
     }
 
@@ -103,10 +103,10 @@ internal class PlotHelper
     private void AddCentroidsScatterPlot(Plot plt, double[] centerX, double[] centerY)
     {
         var centroids = plt.Add.Scatter(centerX, centerY);
-        centroids.MarkerShape = MarkerShape.Cross;
+        centroids.MarkerShape = MarkerShape.Asterisk;
         centroids.MarkerSize = 10;
-        centroids.Color = Colors.Red;
-        centroids.LegendText = "Центроиды";
+        centroids.Color = Colors.LightCoral;
+        centroids.LegendText = "Centroids";
         centroids.LineWidth = 0;
     }
 
@@ -157,7 +157,7 @@ internal class PlotHelper
                 new[] { yy[i, j], yy[i, j], yy[i, j] + 1.0f / gridSize, yy[i, j] + 1.0f / gridSize }
             );
             rect.FillStyle.Color =
-                prediction > 0.5 ? Colors.CornflowerBlue.WithAlpha(0.3) : Colors.Salmon.WithAlpha(0.3);
+                prediction > 0.5 ? Colors.Plum.WithAlpha(0.3) : Colors.LightGoldenRodYellow.WithAlpha(0.3);
             rect.LineWidth = 0;
         }
     }
@@ -170,8 +170,8 @@ internal class PlotHelper
             var y = samples[i, 1];
             var label = labels[i];
 
-            var marker = plt.Add.Marker(x, y, MarkerShape.FilledCircle, 6);
-            marker.Color = label == 1 ? Colors.Blue : Colors.Red;
+            var marker = plt.Add.Marker(x, y, MarkerShape.FilledDiamond, 6);
+            marker.Color = label == 1 ? Colors.DarkGoldenRod : Colors.DarkMagenta;
             marker.LineWidth = 0;
         }
     }
