@@ -1,0 +1,47 @@
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\Lab 3.exe
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\Lab 3.deps.json
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\Lab 3.runtimeconfig.json
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\Lab 3.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\Lab 3.pdb
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\Apache.Arrow.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\CsvHelper.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\HarfBuzzSharp.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\MathNet.Numerics.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\Microsoft.Data.Analysis.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\Microsoft.ML.DataView.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\OpenCvSharp.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\ScottPlot.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\SkiaSharp.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\SkiaSharp.HarfBuzz.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\System.Collections.Immutable.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-x64\native\OpenCvSharpExtern.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-x86\native\OpenCvSharpExtern.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\linux-arm\native\libSkiaSharp.so
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\linux-arm64\native\libSkiaSharp.so
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\linux-x64\native\libSkiaSharp.so
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\src\CV Labs\Lab 3\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.csproj.AssemblyReference.cache
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.AssemblyInfoInputs.cache
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.AssemblyInfo.cs
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.csproj.CoreCompileInputs.cache
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.csproj.CopyComplete
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.dll
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\refint\Lab 3.dll
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.pdb
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\Lab 3.genruntimeconfig.cache
+D:\src\CV Labs\Lab 3\obj\Debug\net7.0\ref\Lab 3.dll
